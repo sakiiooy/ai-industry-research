@@ -1,0 +1,431 @@
+{
+  "version": "2026-11-19.v1",
+  "asOf": "2026-11-19",
+  "comparisonPeriod": "FY2025（iRobot仅FY2024历史案例）",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "石头科技官方：2025年及2026Q1业绩",
+      "url": "https://newsroom.roborock.com/gl/news/roborock-reports-56-51-revenue-growth-in-2025-q1-2026-revenue-up-23-31-",
+      "date": "2026-04-22",
+      "period": "FY2025",
+      "locator": "正文第2段",
+      "type": "公司官网",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S2",
+      "title": "科沃斯2025年年度报告摘要",
+      "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-25/603486_20260425_2Q1O.pdf",
+      "date": "2026-04-25",
+      "period": "FY2025",
+      "locator": "第4–5页：业务简介、3.1主要会计数据",
+      "type": "交易所披露",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S3",
+      "title": "SharkNinja 2025 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1957132/000195713226000015/sharkninja-20251231.htm",
+      "date": "2026-03-02",
+      "period": "FY2025",
+      "locator": "p66–71、F-17：品类定义与收入；p43：贸易风险",
+      "type": "监管披露",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S4",
+      "title": "iRobot 2024全年业绩",
+      "url": "https://media.irobot.com/2025-03-12-iRobot-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results",
+      "date": "2025-03-12",
+      "period": "FY2024，截至2024-12-28",
+      "locator": "Full-Year 2024 Financial Results；合并利润表",
+      "type": "公司官网",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S5",
+      "title": "iRobot完成与Picea交易",
+      "url": "https://media.irobot.com/2026-01-23-iRobot-Completes-Court-Supervised-Transaction-with-Picea%2C-Enabling-the-Next-Chapter-of-Growth",
+      "date": "2026-01-23",
+      "period": "2026-01-23时点",
+      "locator": "开头两段",
+      "type": "公司官网",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S6",
+      "title": "iRobot重整交易安排",
+      "url": "https://media.irobot.com/2025-12-14-iRobot-Announces-Strategic-Transaction-to-Drive-Long-Term-Growth-Plan",
+      "date": "2025-12-14",
+      "period": "重整交易事件",
+      "locator": "交易完成后公司私有化说明",
+      "type": "公司官网",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S7",
+      "title": "全志MR813机器人专用芯片",
+      "url": "https://www.allwinnertech.com/index.php?a=index&c=product&id=122&solveid=39",
+      "date": null,
+      "period": "产品页，2026-11-19核验",
+      "locator": "产品概述/应用方案",
+      "type": "公司官网",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S8",
+      "title": "TI TIDA-010075充电参考设计",
+      "url": "https://www.ti.com/tool/TIDA-010075",
+      "date": null,
+      "period": "参考设计，2026-11-19核验",
+      "locator": "Overview与测试用途说明",
+      "type": "公司官网",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S9",
+      "title": "石头CES 2026 Saros Rover研发公告",
+      "url": "https://newsroom.roborock.com/gl/news/ces-2026-roborock-releases-the-world-s-first-robotic-vacuum-with-wheel-leg-architecture-as-it-joins-hands-with-real-madrid-football-club-",
+      "date": "2026-01-06",
+      "period": "2026-01-06发布时点",
+      "locator": "Saros Rover章节末句",
+      "type": "公司官网",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S10",
+      "title": "北京2025智能家居补贴扩围政策解读",
+      "url": "https://sw.beijing.gov.cn/phone/zwxx/2024zcjdphone/202506/t20250618_4115984.html",
+      "date": "2025-06-17",
+      "period": "北京2025政策",
+      "locator": "二、补贴范围和标准",
+      "type": "地方政府",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S11",
+      "title": "Nidec集团产品目录第11版",
+      "url": "https://www.nidec.com/files/user/www-nidec-com/product/catalog/pdf/nidec/NIDEC_CATALOG_JPN_11th.pdf",
+      "date": null,
+      "period": "产品目录，2026-11-19核验",
+      "locator": "目录印刷页09–10：For Robot Cleaner",
+      "type": "公司官网",
+      "retrievedAt": "2026-11-19"
+    },
+    {
+      "id": "S12",
+      "title": "上海2026自主品类补贴实施细则",
+      "url": "https://sww.sh.gov.cn/zwgkgfqtzcwj/20260729/e7728486443b464193ba41d49354d045.html",
+      "date": "2026-07-29",
+      "period": "上海2026政策",
+      "locator": "一、补贴范围和标准",
+      "type": "地方政府",
+      "retrievedAt": "2026-11-19"
+    }
+  ],
+  "companies": [
+    {
+      "id": "roborock",
+      "name": "石头科技",
+      "en": "Roborock",
+      "ticker": "688169.SH",
+      "market": "A股",
+      "layer": "品牌整机",
+      "role": "扫地机器人、智能清洁",
+      "status": "上市公司；FY2025可比期",
+      "color": "#5770ee",
+      "revenue": {
+        "value": 186.95,
+        "unit": "亿元人民币",
+        "period": "FY2025",
+        "scope": "集团营业收入（官网四舍五入，非扫地机收入）",
+        "sourceId": "S1"
+      }
+    },
+    {
+      "id": "ecovacs",
+      "name": "科沃斯",
+      "en": "ECOVACS",
+      "ticker": "603486.SH",
+      "market": "A股",
+      "layer": "品牌整机",
+      "role": "科沃斯服务机器人＋添可智能生活电器",
+      "status": "上市公司；FY2025可比期",
+      "color": "#24a184",
+      "revenue": {
+        "value": 190.4,
+        "unit": "亿元人民币",
+        "period": "FY2025",
+        "scope": "集团营业收入；包括添可，非扫地机收入",
+        "sourceId": "S2",
+        "rawValue": 19039662854.51,
+        "rawUnit": "人民币元"
+      }
+    },
+    {
+      "id": "sharkninja",
+      "name": "SharkNinja",
+      "en": "SharkNinja",
+      "ticker": "SN",
+      "market": "美股",
+      "layer": "品牌整机",
+      "role": "Shark清洁、Ninja厨房及其他消费硬件",
+      "status": "上市公司；FY2025可比期",
+      "color": "#7160c0",
+      "revenue": {
+        "value": 63.99,
+        "unit": "亿美元",
+        "period": "FY2025",
+        "scope": "集团净销售额；Cleaning为22.06亿美元，含非机器人",
+        "sourceId": "S3",
+        "rawValue": 6399188,
+        "rawUnit": "千美元"
+      },
+      "cleaningRevenue": {
+        "value": 22.06,
+        "unit": "亿美元",
+        "period": "FY2025",
+        "scope": "Cleaning Appliances（含传统吸尘器等），占集团34.5%",
+        "sourceId": "S3",
+        "rawValue": 2205757,
+        "rawUnit": "千美元"
+      }
+    },
+    {
+      "id": "irobot",
+      "name": "iRobot",
+      "en": "iRobot / Roomba",
+      "ticker": "历史IRBT（已私有化）",
+      "market": "历史美股",
+      "layer": "品牌整机",
+      "role": "Roomba自主清洁机器人",
+      "status": "2026-01-23被Picea收购；非当前上市投资标的",
+      "color": "#a1805a",
+      "revenue": {
+        "value": 6.82,
+        "unit": "亿美元",
+        "period": "FY2024，截至12月28日",
+        "scope": "历史集团收入；不纳入FY2025排名",
+        "sourceId": "S4",
+        "rawValue": 681849,
+        "rawUnit": "千美元"
+      },
+      "statusSourceId": "S5"
+    },
+    {
+      "id": "nidec",
+      "name": "尼得科",
+      "en": "Nidec",
+      "ticker": "6594.T",
+      "market": "日股",
+      "layer": "核心零部件",
+      "role": "电机、轮驱与机器人风机",
+      "status": "产品存在；扫地机收入和命名客户待核验",
+      "color": "#457a93",
+      "revenue": null
+    },
+    {
+      "id": "allwinner",
+      "name": "全志科技",
+      "en": "Allwinner",
+      "ticker": "300458.SZ",
+      "market": "A股",
+      "layer": "计算与感知",
+      "role": "MR813机器人计算芯片",
+      "status": "产品适配已证；客户供应关系待证",
+      "color": "#557e95",
+      "revenue": null
+    },
+    {
+      "id": "ti",
+      "name": "德州仪器",
+      "en": "Texas Instruments",
+      "ticker": "TXN",
+      "market": "美股",
+      "layer": "电源与控制",
+      "role": "电池管理/充电参考方案",
+      "status": "参考设计验证；命名客户与收入待证",
+      "color": "#6a788a",
+      "revenue": null
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "companyId": "roborock",
+      "grade": "E1",
+      "text": "FY2025集团收入约186.95亿元，同比增长56.51%；这是集团口径的收入证据。",
+      "sourceId": "S1",
+      "locator": "正文第2段",
+      "verified": true,
+      "period": "FY2025",
+      "boundary": "集团还含其他智能清洁品类，不能全额归为扫地机器人或具身智能收入。"
+    },
+    {
+      "id": "C02",
+      "companyId": "roborock",
+      "grade": "E2",
+      "text": "官方产品组合包含机器人、无线与干湿吸尘器、割草机及洗烘产品，可归入智能清洁品牌整机。",
+      "sourceId": "S9",
+      "locator": "About Roborock",
+      "verified": true,
+      "period": "2026-01-06",
+      "boundary": "单独扫地机器人收入未在该来源拆分。"
+    },
+    {
+      "id": "C03",
+      "companyId": "ecovacs",
+      "grade": "E1",
+      "text": "FY2025集团收入190.40亿元、归母净利润17.58亿元；不能把全部收入等同扫地机器人。",
+      "sourceId": "S2",
+      "locator": "PDF第5页3.1主要会计数据",
+      "verified": true,
+      "period": "FY2025",
+      "boundary": "含科沃斯服务机器人、添可智能生活电器等；未据摘要估算扫地机占比。"
+    },
+    {
+      "id": "C04",
+      "companyId": "ecovacs",
+      "grade": "E2",
+      "text": "公司拥有DEEBOT扫地、WINBOT擦窗、GOAT割草；添可芙万是手持洗地机，应划为相邻消费清洁业务。",
+      "sourceId": "S2",
+      "locator": "PDF第4页主要业务",
+      "verified": true,
+      "period": "FY2025",
+      "boundary": "服务机器人品牌和扫地机器人单品不是同一统计口径。"
+    },
+    {
+      "id": "C05",
+      "companyId": "ecovacs",
+      "grade": "E2",
+      "text": "电机、电池与传动自研自产布局支持上游归属；内部配套与对外收入需分开。",
+      "sourceId": "S2",
+      "locator": "PDF第4–5页机器人智能零组件集群",
+      "verified": true,
+      "period": "FY2025",
+      "boundary": "不得将内部自供重复统计为产业链外部收入。"
+    },
+    {
+      "id": "C06",
+      "companyId": "sharkninja",
+      "grade": "E1",
+      "text": "FY2025 Cleaning Appliances收入22.06亿美元，占集团34.5%；该大类包含机器人及其他清洁电器。",
+      "sourceId": "S3",
+      "locator": "p70、F-17品类销售表",
+      "verified": true,
+      "period": "FY2025",
+      "boundary": "机器人收入未单列；集团63.99亿美元收入与49.0%毛利率均非机器人指标。"
+    },
+    {
+      "id": "C07",
+      "companyId": "irobot",
+      "grade": "E1",
+      "text": "FY2024历史收入6.82亿美元、GAAP毛利率20.9%，是自主清洁品牌的历史经营参照。",
+      "sourceId": "S4",
+      "locator": "Full-Year 2024 Financial Results",
+      "verified": true,
+      "period": "FY2024，截至2024-12-28",
+      "boundary": "与FY2025不同期；US GAAP；重整前历史数据，不能据此做当前证券估值。"
+    },
+    {
+      "id": "C08",
+      "companyId": "irobot",
+      "grade": "E2",
+      "text": "官方2024业绩材料将Roomba系列列为自主地面清洁机器人产品，支持家庭清洁品牌归属。",
+      "sourceId": "S4",
+      "locator": "业务说明与Roomba产品更新",
+      "verified": true,
+      "period": "FY2024历史产品说明",
+      "boundary": "产品存在不证明当前销量；公司于2026-01-23完成私有化交易，当前状态另据S5。"
+    },
+    {
+      "id": "C09",
+      "companyId": "nidec",
+      "grade": "E2",
+      "text": "官方目录列有扫地机器人用轮毂/主刷电机及BL-V20风机，支持电机环节归属。",
+      "sourceId": "S11",
+      "locator": "印刷页09–10，For Robot Cleaner",
+      "verified": true,
+      "period": "产品目录，核验2026-11-19",
+      "boundary": "未拆分对应收入，也不证明为石头或科沃斯供应商。"
+    },
+    {
+      "id": "C10",
+      "companyId": "allwinner",
+      "grade": "E2",
+      "text": "MR813官网明确适用于扫地机等机器人，可归入计算芯片环节。",
+      "sourceId": "S7",
+      "locator": "产品概述",
+      "verified": true,
+      "period": "产品页，核验2026-11-19",
+      "boundary": "适配能力不能证明销量、客户导入或石头科技采购关系。"
+    },
+    {
+      "id": "C11",
+      "companyId": "ti",
+      "grade": "E3",
+      "text": "TIDA-010075充电参考设计面向扫地机器人，并在4S2P电池包验证。",
+      "sourceId": "S8",
+      "locator": "Overview",
+      "verified": true,
+      "period": "参考设计，核验2026-11-19",
+      "boundary": "该板仅供测试验证，不可把参考设计当作量产订单或对应收入。"
+    },
+    {
+      "id": "C12",
+      "companyId": "roborock",
+      "grade": "E3",
+      "text": "Saros Rover轮足机器人在官方CES材料中处于研发，上市日期尚未确定。",
+      "sourceId": "S9",
+      "locator": "Saros Rover章节末句",
+      "verified": true,
+      "period": "2026-01-06发布时点",
+      "boundary": "仅证明当时开发状态；不证明量产、收入或核验日仍未上市，需后续更新。"
+    },
+    {
+      "id": "C13",
+      "companyId": "ecovacs",
+      "grade": "E4",
+      "text": "年报摘要提及未来拓展谐波减速齿轮箱、机器人灵巧手标准模组。",
+      "sourceId": "S2",
+      "locator": "PDF第5页智能零组件集群",
+      "verified": true,
+      "period": "FY2025年报披露",
+      "boundary": "未来规划不等于已有该产品收入，不能据此确认具身智能商业化。"
+    },
+    {
+      "id": "C14",
+      "companyId": "allwinner",
+      "grade": "E5",
+      "text": "“全志芯片已向石头科技供货”在本次资料集未找到可支持的客户级证据。",
+      "sourceId": "S7",
+      "locator": "已核验产品页未披露命名客户",
+      "verified": false,
+      "period": "资料集截至2026-11-19",
+      "boundary": "无证据不是不存在；保持待证，不画实线供货边。"
+    }
+  ],
+  "policy": {
+    "id": "beijing-2025",
+    "title": "北京2025扫地机器人补贴扩围",
+    "sourceId": "S10",
+    "date": "2025-06-17",
+    "region": "北京",
+    "period": "2025政策案例",
+    "rate": 15,
+    "maxPerProduct": 2000,
+    "currency": "人民币元",
+    "text": "扫地机器人（含洗地机、扫拖一体机）优惠后最终成交价补贴15%；符合一级及以上能效/水效可额外5%；每人每类1件、每件最高2000元。",
+    "boundary": "历史地域政策案例，非当前全国统一规则；适用资格、商户、预算和时点另查。"
+  },
+  "policy2026": {
+    "title": "上海2026自主品类补贴",
+    "sourceId": "S12",
+    "region": "上海",
+    "rate": 15,
+    "maxPerProduct": 1500,
+    "text": "智能清洁机器人（含扫地、擦窗）优惠后成交价补贴15%，每人每类1件、每件最高1500元。",
+    "boundary": "仅对应上海2026细则，资格、资金与执行时点须查原文。"
+  }
+}
