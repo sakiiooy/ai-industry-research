@@ -1,2 +1,2 @@
 # ai-industry-research
-CleanLens：面向个人投资者的清洁机器人产业链、业务证据、跨市场比较与情景研究产品。
+An AI-powered investment research platform for industry chain mapping, cross-market company comparison, and evidence-based analysis of business relationships and market trends.
